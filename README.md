@@ -40,5 +40,7 @@
 2. Небольшое число повторений на генотип ограничивает мощность ANOVA для отдельных признаков.
 
 ## Как запустить
-```bash pip install -r requirements.txt
-Jupyter notebook data_analysis_field.ipynb```
+```bash
+pip install -r requirements.txt
+Jupyter notebook data_analysis_field.ipynb
+```
